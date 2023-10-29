@@ -1,0 +1,57 @@
+
+
+@media (max-width:1024px){
+     .btn1{font-size: 10px;padding: 20px 30px;display: block;}
+  
+
+ 
+}
+
+@media (max-width:1199px){
+     .btn1{font-size: 10px;padding: 20px 30px;display: block;}
+}
+
+
+@media (max-width:767px){
+     .top-left ul, .top-right ul{
+	    display:block;
+	 }
+	 .top-left ul li{
+	    padding-top:5px;
+	    padding-bottom:5px;
+		text-align:center;
+	 }
+	 .top-content{
+	     display:block;
+		 text-align:center;
+	 }
+	 .top-right ul li{display:inline-block}
+	 .btn1{font-size: 10px;padding: 20px 30px;display: block;}
+	 
+	 .team-member img{width: 100%;}
+    
+	.about-area{padding-top:150px;}
+	.we-img img{width:100%}
+	.our-btn{padding:10px 10px;}
+	 .our-btn {font-size:10px;}
+
+}
+
+
+
+@media (max-width:580px){
+     .top{right:10px;}
+	 
+}
+}
+
+
+@media (max-width:280px){
+     .btn-area {font-size:6px;}
+}
+
+
+
+
+
+
